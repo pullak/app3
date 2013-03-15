@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.pullak.sample2"
+        version   = "99.999">
+    <name>Pullak App 2</name>
+
+    <description>
+       Sample Application by pullak Mohapatra.
+    </description>
+
+    <author href="https://www.facebook.com/pullak.mohapatra" email="pullak.mohapatra@gmail.com">
+Pullak Mohapatra
+    </author>
+    <icon src="icon.png" gap:role="default" />
+    <preference name="load-url-timeout" value="60000" />
+</widget>
