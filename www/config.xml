@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.pullak.sample2"
+        id        = "com.pullak.sample3"
         version   = "99.999">
-    <name>Pullak App 2</name>
+    <name>Pullak App 3</name>
 
     <description>
        Sample Application by pullak Mohapatra.
